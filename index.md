@@ -10,3 +10,6 @@ class Test:
   def __init__(self):
     pass
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
